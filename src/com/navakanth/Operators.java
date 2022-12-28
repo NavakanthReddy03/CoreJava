@@ -25,6 +25,7 @@ public class Operators {
 		m=n++; //post-increment
 		System.out.println(m); //2
 		System.out.println(n); //3
+		System.out.println("Hello");
 
 	}
 
